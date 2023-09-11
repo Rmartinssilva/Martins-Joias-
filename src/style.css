@@ -304,7 +304,19 @@ iframe {
 section hr {
   width: 100%;
 }
+p {
+  text-align: center;
+}
 
+a {
+  display: inline-block; 
+  margin-bottom: 10px; 
+}
+
+img {
+  display: block; 
+  margin: 0 auto; 
+}
 /* --------  Responsividade  --------*/
 
 @media all and (max-width: 768px) {
